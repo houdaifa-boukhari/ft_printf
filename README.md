@@ -1,0 +1,1 @@
+ft_printf is a custom implementation of the standard printf function in C, developed as part of the 1337 School Common Core curriculum. This project aims to replicate the behavior of printf while enhancing understanding of variadic functions, formatted output, and low-level string manipulation.
